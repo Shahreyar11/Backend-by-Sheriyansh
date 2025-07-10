@@ -1,0 +1,17 @@
+initialize a project with npm
+Express Install
+dynamic routing
+how to get data coming from frontend at backend route
+
+setting up parsers for form 
+
+setting up ejs for ejs pages
+
+setting up public static files
+
+EJS helps in Frontend suppose you want to calculate <h1> 2+2 </h1> It will not work in html but if you use EJS it will work definately
+
+setup ejs as a view engine
+
+the __dirname gives you the directory or path of which you are working
+and adding any other like __dirname + 'public gives you path/public path to you 
